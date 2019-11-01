@@ -1,0 +1,6 @@
+HTML works with txt files. do you?
+Case #001
+User: Karen
+Reason: DM Bot
+User ID: None
+Status: Expired
